@@ -1,0 +1,7 @@
+This application does not collect or store personal data. 
+
+The application does require (2) permissions from the device:
+1. Internet access (To access the Grand Archive public API and retrieve card images)
+2. Vibration (To provide haptic feedback on the Counter screen)
+
+If you installed this application from the Google Play Store, Google Play Service does collect some personal data. Please defer to their privacy policy here: https://policies.google.com/privacy
